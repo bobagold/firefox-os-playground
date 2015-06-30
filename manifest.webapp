@@ -1,12 +1,12 @@
 {
   "name": "helloWorld",
   "description": "A Test app to work with FireFox OS APIs",
-  "launch_path": "/index.html",
+  "launch_path": "/firefox-os-playground/index.html",
   "icons": {
-    "16": "/icons/icon16x16.png",
-    "48": "/icons/icon48x48.png",
-    "60": "/icons/icon60x60.png",
-    "128": "/icons/icon128x128.png"
+    "16": "/firefox-os-playground/icons/icon16x16.png",
+    "48": "/firefox-os-playground/icons/icon48x48.png",
+    "60": "/firefox-os-playground/icons/icon60x60.png",
+    "128": "/firefox-os-playground/icons/icon128x128.png"
   },
   "permissions": {
     "device-storage:sdcard":{ "access": "readwrite" }
